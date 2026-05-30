@@ -1,4 +1,4 @@
-// MySQL Database Connection
+//MYSQL DB Connection
 const mysql = require('mysql2');
 
 require('dotenv').config();
