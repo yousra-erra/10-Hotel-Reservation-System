@@ -1,4 +1,4 @@
-// Admin Role Middleware
+//  Admin Role Middleware
 module.exports = (req, res, next) => {
 
     if (
