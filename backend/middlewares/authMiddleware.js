@@ -1,4 +1,4 @@
-// JWT Authentication Middleware
+//  JWT Authentication Middleware
 const jwt = require('jsonwebtoken');
 
 module.exports = (req, res, next) => {
