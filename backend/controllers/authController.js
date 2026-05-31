@@ -100,6 +100,7 @@ exports.getUsers = (req, res) => {
         res.json(results);
     });
 };
+
 exports.deleteUser = (req, res) => {
     const { id } = req.params;
 
